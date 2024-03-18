@@ -1,0 +1,10 @@
+.li-item {
+  height: 30px;
+  width: 90px;
+  background-color: #585076;
+  margin: 1rem;
+  text-align: center;
+  border-radius: 10px;
+  padding: 5px;
+  cursor: pointer;
+}
